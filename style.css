@@ -1,0 +1,14 @@
+*{
+   
+    font-family: sans-serif;
+
+}
+.three_container{
+    display: flex;
+    align-items: center;
+   background: #a84b4b;
+}
+.img>img{
+    width: 80px;
+    height: 60px;
+}
